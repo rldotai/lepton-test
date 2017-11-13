@@ -17,11 +17,11 @@ You can look up your result on Google or on somewhere more specialized, like Dig
 Here are some part numbers I found:
 
 | ---- | ---- |
-Lepton 3 | 500-0726-01
-Radiometric Lepton | 500-0763-01
-Lepton 2 | 500-0643-00
- |  500-0659-01
- | 500-0690-00
+Lepton 3 | 500-0726-01 |
+Radiometric Lepton | 500-0763-01 |
+Lepton 2 | 500-0643-00 |
+ |  500-0659-01 |
+ | 500-0690-00 |
 
 
 
