@@ -24,3 +24,13 @@ Rows: 0 - 59     Columns: 0 - 79
 [...]
 Rows: 0 - 119     Columns: 0 - 159
 ```
+
+
+### Build and Run
+
+```
+# on a Raspberry Pi (tested with Raspi 3 and Lepton breakout v 1.4)
+make
+./bin/test_version
+```
+
